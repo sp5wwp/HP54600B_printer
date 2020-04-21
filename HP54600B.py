@@ -11,7 +11,7 @@ cols    = 68
 #show progress?
 verbose = 1
 #invert colors?
-invert  = 0
+invert  = 1
 
 #buffers
 buff=[0]*6

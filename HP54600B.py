@@ -35,7 +35,7 @@ if not ser.isOpen():
 
 if len(sys.argv)!=2:
     print('Usage:')
-    print('python HP5400B.py COM1')
+    print('python HP54600B.py COM1')
 
 print('Set print format to ""HP print"" [Print|Utility], [Hardcopy menu]')
 print('Then, press [Print|Utility], [Print Screen]')
